@@ -1,0 +1,5 @@
+Observable Trends:
+
+1. The district's seven largest schools by enrollment are all public, while the eight smallest are all charters. Within each group, the overall passing rates are very similar, ranging from 73.3% to 74.3% for the public schools and from 94.4% to 95.6% for the charters.
+
+2. At each public school, there is a stark difference between the percentage of students passing math and the percentage passing reading. Those figures range from 66.1% to 68.3% of students passing math, compared with 79.3% to 81.9% of students passing reading.
